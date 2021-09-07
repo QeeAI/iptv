@@ -1,0 +1,283 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="中国",CCTV中国中央电视台-1 综合(线路1)
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="中国",CCTV中国中央电视台-1 综合(线路2)
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="中国",CCTV中国中央电视台-1 综合(线路3)
+http://223.110.243.138:80/PLTV/3/224/3221226316/index.m3u8?servicetype=1&amp;icpid=88888888&amp;from=1&amp;hms_devid=3444
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="中国",CCTV中国中央电视台-2 财经
+http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="中国",CCTV中国中央电视台-3 综艺
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="中国",CCTV中国中央电视台-4 中文国际
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8 
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="中国",CCTV中国中央电视台-5 体育(线路1)
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="中国",CCTV中国中央电视台-5 体育(线路2)
+http://180.153.99.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="中国",CCTV中国中央电视台-5 体育(线路3)
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="中国",CCTV中国中央电视台-5+ 体育赛事
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="中国",CCTV中国中央电视台-6 电影
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="中国",CCTV中国中央电视台-7 国防军事
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv7/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV8" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="中国",CCTV中国中央电视台-8 电视剧
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV9" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="中国",CCTV中国中央电视台-9 纪录
+http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV10" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="中国",CCTV中国中央电视台-10 科教
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/2300000/mnf.m3u8  
+#EXTINF:-1 tvg-id="CCTV11.cn" tvg-name="CCTV11" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="中国",CCTV中国中央电视台-11 戏曲
+http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-name="CCTV12" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="中国",CCTV中国中央电视台-12 社会与法制
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="中国",CCTV中国中央电视台-13 新闻(线路1)
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="中国",CCTV中国中央电视台-13 新闻(线路2)
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8 
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CCTV14" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="中国",CCTV中国中央电视台-14 少儿
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CCTV15" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="中国",CCTV中国中央电视台-15 音乐
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8 
+
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视HD" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://bkimg.cdn.bcebos.com/pic/5ab5c9ea15ce36d3e486ab4e31f33a87e850b1c9" group-title="中国",湖南卫视
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8  
+#EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-name="江苏卫视HD" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://bkimg.cdn.bcebos.com/pic/cc11728b4710b9129a35a489ccfdfc03934522d4" group-title="中国",江苏卫视
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8  
+#EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-name="浙江卫视HD" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="中国",浙江卫视
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8  
+#EXTINF:-1 tvg-id="DongFangWeiShi.cn" tvg-name="东方卫视HD" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/dongfang.jpg" group-title="中国",东方卫视
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8  
+
+
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",CNC中文  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",CNC英文  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",东南卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",东方卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",东方卫视高清8M  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",江苏卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",江苏卫视高清8M  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225702/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",江西卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",江西卫视高清8M  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",河北卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225732/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",浙江卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",浙江卫视高清8M  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",深圳卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",深圳卫视高清8M  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225700/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",湖北卫视高清8M  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",湖南卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",湖南卫视高清8M  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",北京卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",北京卫视高清8M  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225674/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",北京纪实HD  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225675/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",北京纪实高清8M  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225676/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",上海纪实HD  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225654/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",上海纪实高清8M  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",四川卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",天津卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",天津卫视高清8M  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225698/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",安徽卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",安徽卫视高清8M  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",山东卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",山东卫视高清8M  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",山西卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",广东卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",广东卫视高清8M  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225701/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",广西卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225731/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",重庆卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",重庆卫视高清8M  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",吉林卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",云南卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",内蒙古卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",青海卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225727/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",黑龙江卫视高清  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225736/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",黑龙江卫视高清8M  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",宁夏卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",甘肃卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225724/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",西藏卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",新疆卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",旅游卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",贵州卫视  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",辽宁卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",辽宁卫视高清8M  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级江西卫视  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225979/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级体育4M  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级电影4M  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级电视剧4M  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级综艺4M  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级体育  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级电影  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级电视剧  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级综艺  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",NewTV电竞  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225653/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",精品体育  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",精品大剧  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",精品电影  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",精品纪录  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",金牌综艺  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225711/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",金鹰卡通  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225721/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",卡酷少儿  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225677/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",古装剧场  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",动作电影  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225671/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",动画王国  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",农业致富  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225670/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",军旅剧场  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225669/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",优漫卡通  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",惊悚悬疑  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225717/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",明星大片  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225716/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",中国功夫  
+http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",中国教育-1  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",炫动卡通  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",炫舞未来  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225707/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",爱情喜剧  
+http://39.135.138.59:18890/PLTV/88888910/224/3221225748/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",精品记录  
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",精品体育  
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",精品大剧  
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",中国功夫  
+http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",爱情喜剧  
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",古装剧场  
+http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",潮妈辣婆  
+http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",军旅剧场  
+http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",炫舞未来  
+http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",家庭剧场  
+http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",军事评论  
+http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",金牌综艺  
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",农业致富  
+http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级体育  
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",黑莓电竞  
+http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",自由搏击  
+http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",健康有约  
+http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级电影  
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级综艺  
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8  
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese"  group-title="中国",超级电视剧  
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8  
+
+
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="香港",翡翠台(线路1)
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="香港",翡翠台(线路2)
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="香港",翡翠台(线路3)
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="明珠台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://bkimg.cdn.bcebos.com/pic/279759ee3d6d55fbecb588db61224f4a21a4ddd8" group-title="香港",明珠台 (1080p)
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="GangTaiDianShi31.hk" tvg-name="RTHK (港台電視31) " tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="香港",RTHK (港台電視31) (720p)
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 tvg-id="RTHKGangTaiDianShi31.hk" tvg-name="RTHK (港台電視31)" tvg-country="HK" tvg-language="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="香港",RTHK (港台電視31) (1080p)
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 tvg-id="RTHKGangTaiDianShi32.hk" tvg-name="RTHK (港台電視32)" tvg-country="HK" tvg-language="" tvg-logo="" group-title="香港",RTHK (港台電視32) (480p)
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 tvg-id="YaoCaiCaiJingTai.hk" tvg-name="耀才財經台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" group-title="香港",耀才財經台 (576p)
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="XiangGangKaiDianShiHKSTVHKS.hk" tvg-name="香港开电视 / HKSTV-HKS" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="香港",香港开电视 / HKSTV-HKS (720p)
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="FengHuangWeiShiZhongWenTai.hk" tvg-name="鳳凰衛視中文台" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" group-title="香港",鳳凰衛視中文台
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P 
+#EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="鳳凰衛視資訊台" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="香港",鳳凰衛視資訊台HD
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
+#EXTINF:-1 tvg-id="FengHuangHK.hk" tvg-name="鳳凰衛視香港台" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="香港",鳳凰衛視香港台HD
+http://live.fengshows.com/live/PHK_500k/index.m3u8
+#EXTINF:-1 tvg-id="XiangGangWeiShi.hk" tvg-name="香港衛視" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/wnQPn2d.jpg" group-title="香港",香港衛視 (576p) [Not 24/7]
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
